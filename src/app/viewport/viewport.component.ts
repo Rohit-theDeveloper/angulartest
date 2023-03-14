@@ -6,5 +6,6 @@ import { Component } from '@angular/core';
   styleUrls: ['./viewport.component.css']
 })
 export class ViewportComponent {
-
+ login_as:string="raja ji";
+ rohit:string="i amm a boy  "
 }
