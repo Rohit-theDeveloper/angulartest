@@ -1,3 +1,23 @@
-h1{
-        color: red;
+.example-spacer {
+        flex: 1 1 auto;
+      }
+.header{
+        background-color: blue;
+}   
+.mat-toolbar{
+        background-color: blue;
+
+}
+.example-icon{
+        background-color: blue;
+        color: whitesmoke;
+        word-spacing: 2px;
+        margin-left: 5px;
+        border: 0px;
+}
+.example-icon:hover{
+        background-color: aqua;
+}   
+.icon{
+        font-size: 28px;
 }
